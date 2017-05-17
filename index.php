@@ -15,7 +15,7 @@
 	<?php endif ?>
 
 	<div id="log-painel">
-		<h3>Acesso Cliente</h3>
+		<h3>Acessso Cliente</h3>
 		<a data-toggle="modal" data-target="#cliacess">
 			<img class="img-circle" src="Assets/img/acess-cliente.png" alt="">
 		</a>
